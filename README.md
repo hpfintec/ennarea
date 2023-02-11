@@ -46,9 +46,8 @@ Ennarea Mobile Banking is a new startup that aims to serve the growing demand fo
 
 10. Notifications and Alerts: The app will provide real-time notifications and alerts, keeping customers informed of any changes to their digital asset portfolio and allowing them to take action if needed.
 
-![image 1](./img/1.jpg), ![image 1](./img/2.jpg)
-![image 1](./img/4.jpg), ![image 1](./img/5.jpg)
-![image 1](./img/3.jpg)
+
+
 
 
 ## Services:
@@ -112,3 +111,4 @@ This cloud infrastructure design would provide a scalable, secure, and highly av
 
 Ennarea Mobile Banking is poised to become a key player in the market for digital currencies, with its focus on providing a secure and user-friendly platform for managing CBDCs and stablecoins. The company's combination of innovative app features and functionalities, combined with a comprehensive marketing strategy, will likely make it a popular choice for those looking to manage their digital assets. As the world continues to move towards digitalization, Ennarea is well positioned to meet the growing demand for solutions in this space.
 
+![image 1](./img/footer.jpg)
