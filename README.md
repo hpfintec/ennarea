@@ -34,7 +34,7 @@ Ennarea Mobile Banking is a new startup that aims to serve the growing demand fo
 
 5. Notifications and Alerts: The app will provide real-time notifications and alerts, keeping customers informed of any changes to their digital asset portfolio and allowing them to take action if needed.
 
-![alt text](./img/design1.jpg)
+![image 1](./img/1.jpg), ![image 1](./img/2.jpg),![image 1](./img/3.jpg)
 ## Marketing Plan and Strategies:
 
 
