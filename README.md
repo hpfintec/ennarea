@@ -1,6 +1,6 @@
 # Ennarea Mobile Banking
 
-![alt text](https://netorgft12263308-my.sharepoint.com/:f:/g/personal/henok_lapiso_ufact_io/EgZZC9B3YdpDsZaCDYOieGIBCzWDsVCL_eQNd9tUDBzULA?e=xaPJxr)
+![alt text]()
 
 
 ## Introduction:
