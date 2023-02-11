@@ -1,6 +1,6 @@
 # Ennarea Mobile Banking
 
-![alt text](./img/)
+![alt text](./img/ennareaimg1.jpg)
 
 
 ## Introduction:
